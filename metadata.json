@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Mini Game Hub",
+  "description": "Arcade Mini Game Hub is an exciting, lightweight mobile gaming app with three mini games: Quiz Game, Tap Game, and Memory Game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
